@@ -1,0 +1,6 @@
+<root>
+  <item
+      name='com.mapbox.directions.service.models.DirectionsResponse java.util.List&lt;com.mapbox.directions.service.models.DirectionsRoute&gt; getRoutes()'>
+    <annotation name='android.support.annotation.NonNull' />
+  </item>
+</root>
